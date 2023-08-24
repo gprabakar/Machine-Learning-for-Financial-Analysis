@@ -1,0 +1,31 @@
+,Sl_No.,Fund_Scheme_Name,Category,Launch_Date,Crisil_Rating,Net_Assets_(Cr),1_Yr_Return,3_Yr_Return,5_Yr_Return,Risk,Expense_Ratio,Sharpe_Ratio,Sortino_Ratio,Alpha,Beta,Std_Dev,R_Squared,Year_Trailing,Net_Return,Good
+0,1,UTI Arbitrage Fund #,Arbitrage,2006-06-29 00:00:00,Rank 1,1397.7,6.52,6.24,6.6,Moderately Low,0.83,-0.03,-0.04,0.6,0.33,0.45,0,13,7.4,0
+1,2,LIC MF Debt Hybrid Fund #,Conservative ,2003-06-02 00:00:00,Rank 1,84.93,7.68,5.92,6.55,Moderate,2.3,-0.08,-0.12,-1.91,0.58,3.07,62.19,16,7.73,0
+2,3,ICICI Prudential Regular Savings Fund #,Conservative ,2004-03-30 00:00:00,Rank 1,1589.42,8.4,9.33,9.92,Moderately High,2.24,0.84,1.36,1.91,1.58,3.57,88.45,15,10.06,1
+3,4,Reliance Arbitrage Fund #,Arbitrage,2010-10-14 00:00:00,Rank 2,8535,6.64,6.41,6.86,Moderately Low,1.04,0.26,0.45,0.7,1.3,0.54,85,8,17.83,1
+4,5,Kotak Equity Arbitrage Fund #,Arbitrage,2005-09-29 00:00:00,Rank 2,13360,6.56,6.32,6.75,Moderately Low,0.97,0.14,0.23,0.56,1.26,0.45,87.45,13,18.45,1
+5,6,IDFC Arbitrage Fund #,Arbitrage,2006-12-21 00:00:00,Rank 2,4643,6.64,6.19,6.59,Moderately Low,1.01,-0.12,-0.2,0.61,0.35,0.44,0,12,7.14,0
+6,7,BNP Paribas Conservative Hybrid Fund #,Conservative ,2004-09-23 00:00:00,Rank 2,403,7.18,7.25,7.76,Moderate,2.2,0.28,0.42,1.18,2.78,3.84,89,14,7.44,0
+7,8,Canara Robeco Equity Hybrid Fund #,Aggressive ,1993-02-01 00:00:00,Rank 2,2316,8.82,11.46,11.16,Moderately High,2.14,0.63,0.95,0.8,2.46,8.97,86.87,26,16.08,1
+8,9,Sundaram Equity Hybrid Fund #,Aggressive ,2000-06-23 00:00:00,Rank 2,1665,7.34,10.71,8.57,Moderately High,2.4,0.58,0.89,-0.17,0.89,8.48,93.28,19,12.18,0
+9,10,HDFC Hybrid Equity Fund #,Aggressive ,2000-09-11 00:00:00,Rank 2,22221,9.39,11.24,11.4,Moderately High,1.77,0.56,0.95,0.12,2.84,9.56,90,18,12.59,1
+10,11,Shriram Hybrid Equity Fund #,Aggressive ,2013-11-29 00:00:00,Rank 2,60,5.4,8.81,7.96,Moderately High,2.35,0.32,0.56,-2.45,0.84,9.37,30.07,5,9.58,0
+11,12,Canara Robeco Conservative Hybrid Fund #,Conservative ,2001-04-02 00:00:00,Rank 2,198,9.05,7.24,7.26,Moderately High,2.23,0.26,0.39,1.42,1.86,4.07,92.34,18,19.86,1
+12,13,IDFC Regular Savings Fund #,Conservative ,2010-02-25 00:00:00,Rank 2,201,7.77,7.01,7.98,Moderately High,2.18,0.23,0.39,-1.42,0.79,3.78,74.4,9,8.67,0
+13,14,L&T Arbitrage Opportunities Fund #,Arbitrage,2014-06-30 00:00:00,Rank 3,699,6.21,6.21,6.64,Moderately Low,0.94,-0.1,-0.19,-0.22,-0.09,0.52,0,5,6.65,0
+14,15,Invesco India Arbitrage Fund #,Arbitrage,2007-04-30 00:00:00,Rank 3,233,5.93,6.02,6.54,Moderately Low,1,-0.52,-0.75,0.12,0.19,0.46,0,12,7.05,0
+15,16,HDFC Arbitrage Fund #,Arbitrage,2007-10-23 00:00:00,Rank 3,3689,6.1,5.91,6.44,Moderately Low,0.75,-0.67,-1.18,0.7,0.54,0.47,0,11,6.91,0
+16,17,Franklin India Debt Hybrid Fund #,Conservative ,2000-09-28 00:00:00,Rank 3,12.7333,7.08,6.29,8.15,Moderate,2.3,0.06,0.08,2.1,3.8,4.03,92.4,18,13.65,1
+17,18,Kotak Debt Hybrid Fund #,Conservative ,2003-12-02 00:00:00,Rank 3,13.2891,8.34,7.4,8.56,Moderate,2.21,0.25,0.37,1.49,3.92,4.81,96.81,15,15.66,1
+18,19,ICICI Prudential Equity & Debt Fund #,Aggressive ,1999-11-03 00:00:00,Rank 3,26036,10.4,11.44,11.4,Moderately High,1.69,0.68,1.34,1.11,1.72,8.5,93.63,19,14.08,1
+19,20,SBI Equity Hybrid Fund #,Aggressive ,1995-12-31 00:00:00,Rank 3,30028,10.61,11.06,12,Moderately High,1.64,0.54,0.88,0.16,2.82,9.43,89.63,23,15.39,1
+20,21,DSP Equity & Bond Fund #,Aggressive ,1999-05-27 00:00:00,Rank 3,6230,7.09,10.3,11.59,Moderately High,1.86,0.4,0.56,-1.66,0.97,11.74,38.63,20,14.45,0
+21,22,Franklin India Equity Hybrid Fund #,Aggressive ,1999-12-10 00:00:00,Rank 3,1947,6.85,8.06,10.97,Moderately High,2.15,0.28,0.42,2.39,1.72,8.03,85.1,19,13.54,1
+22,23,HDFC Hybrid Debt Fund #,Conservative ,2003-12-26 00:00:00,Rank 3,13.7315,9.93,7.58,7.91,Moderately High,1.81,0.28,0.52,2.19,1.02,5.54,91.97,15,10.39,1
+23,24,HSBC Regular Savings Plan #,Conservative ,2004-02-24 00:00:00,Rank 3,13.6045,8.45,6.51,7.15,Moderately High,2.19,0.09,0.14,-1.38,0.9,4.68,84.77,15,8.98,0
+24,25,Reliance Hybrid Bond Fund #,Conservative ,2003-12-29 00:00:00,Rank 3,12.2307,4.83,6.49,7.82,Moderately High,1.85,0.11,0.16,-1.37,0.61,3.61,73.84,15,9.86,0
+25,26,SBI Arbitrage Opportunities Fund #,Arbitrage,2006-11-03 00:00:00,Rank 4,2667,6.33,6.07,6.52,Moderately Low,0.88,-0.3,-0.5,0.44,0.32,0.51,0,12,7.33,0
+26,27,SBI Debt Hybrid Fund #,Conservative ,2001-03-24 00:00:00,Rank 4,1206,5.75,6.18,8.49,Moderate,1.72,0.06,0.1,1.97,2.77,4.41,87.8,18,17.83,1
+27,28,JM Arbitrage Fund #,Arbitrage,2006-07-18 00:00:00,Rank 5,73,5.86,5.74,6.25,Moderately Low,0.79,-0.59,-1.12,-1.73,-0.69,0.73,0,13,7.23,0
+28,29,Kotak Equity Hybrid #,Aggressive ,1999-11-25 00:00:00,Rank 5,1579,5.38,8.45,8.96,Moderately High,2.18,0.33,0.51,-2.3,0.87,10.02,38.9,19,7.81,0
+29,30,Tata Hybrid Equity Fund #,Aggressive ,1995-10-08 00:00:00,Rank 5,4571,5.18,6.71,9.64,Moderately High,1.93,0.18,0.32,3.98,3.88,9.7,95.72,23,14.03,1
