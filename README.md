@@ -15,3 +15,5 @@ I've completed 10 advanced data science projects in areas such as:
 
 **Explore My Projects:**  
 [Full Financial Data Science Portfolio](https://github.com/gprabakar/Machine-Learning-for-Financial-Analysis)
+
+Let's connect on [LinkedIn](https://linkedin.com/in/valiantinfosys/)
