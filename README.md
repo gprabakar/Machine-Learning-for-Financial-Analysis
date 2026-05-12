@@ -2,7 +2,7 @@
 
 I’m a Data Scientist with a strong background in Mathematics and hands-on experience solving real-world financial problems using machine learning.
 
-I've completed 10 advanced data science projects in areas such as:
+I've completed 12 advanced data science projects in areas such as:
 - ✅ Anti-Money Laundering (AML) Fraud Detection
 - ✅ Bank Customer Churn Prediction
 - ✅ Credit Scorecard Development
